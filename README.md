@@ -1,2 +1,2 @@
-# simple-chat
+# chat
 simple chat
